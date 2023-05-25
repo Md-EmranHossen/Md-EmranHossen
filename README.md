@@ -8,5 +8,6 @@
 <a href="https://www.codechef.com/users/emranhossen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="emranhossen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emranhossen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emranhossen" height="30" width="40" /></a>
 <a href="https://discord.gg/emran#2397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emran#2397" height="60" width="40" /></a>
+<a href="https://fb.com/emranhossen3075" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emranhossen3075" height="35" width="40" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emranhossen01&label=Profile%20views&color=0e75b6&style=flat" alt="emranhossen01" /> </p>
 
