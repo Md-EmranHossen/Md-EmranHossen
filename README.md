@@ -1,6 +1,6 @@
 # Hi there, I'm Emran! 👋
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=emranhossen01&show_icons=true&theme=radical" />
-<img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranhossen01&layout=compact" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=emranhossen01&show_icons=true&theme=radical" />
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emranhossen01&layout=compact" />
 </br></br></br></br></br></br></br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
