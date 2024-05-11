@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Emran Hossen</h1>
 
-<img align="right" alt="Coding" width="390" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s" />
 
 - 🌱 I’m currently learning **Professional Programming with C#**
 - 👨‍💻 All of my projects are available at [Emran Hossen's Portfolio](https://md-emranhossen.github.io/emranhossen/)
