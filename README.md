@@ -19,6 +19,16 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-emranhossen&" alt="md-emranhossen" /></p>
 
+
+<h3 style="text-align: left;">Problem Solving Profile:</h3>
+
+<a href="https://codeforces.com/profile/emran_" target="_blank">![Codeforces](https://img.shields.io/badge/codeforces-007acc?style=for-the-badge&labelColor=black&logo=codeforces&logoColor=007acc)</a>
+<a href="https://www.codechef.com/users/emranhossen" target="_blank">![codechef](https://img.shields.io/badge/-codechef-61DBFB?style=for-the-badge&labelColor=black&logo=codechef&logoColor=61DBFB)</a>
+<a href="https://leetcode.com/emranhossen/" target="_blank">![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)</a>
+<a href="https://www.stopstalk.com/user/profile/emranhossen" target="_blank">![stopstalk](https://img.shields.io/badge/-stopstalk(all_profiles_here)-61DBFB?style=for-the-badge&labelColor=black&logo=stopstalk&logoColor=61DBFB)</a>
+
+
+
 <h3 style="text-align: left;">Languages and Tools:</h3>
 <div style="text-align: left;">
     <a href="https://www.csharp.net" target="_blank" rel="noreferrer">
@@ -52,10 +62,10 @@
 
 
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codeforces.com/profile/emran_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="emranhossen01" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/emranhossen" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="emranhossen" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/emranhossen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emranhossen" height="30" width="40" /></a>
   <a href="Discordapp.com/users/986276406466060349" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emran_hossen" height="60" width="40" /></a>
   <a href="https://fb.com/emmranhossen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emranhossen3075" height="35" width="40" /></a>
