@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning **Professional Programming with C#**
 - 👨‍💻 All of my projects are available at [Emran Hossen's Portfolio](https://md-emranhossen.github.io/emranhossen/)
 - 📫 How to reach me **emranhossen3075@gmail.com**
-</br></br>
+
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-emranhossen&show_icons=true&locale=en" alt="md-emranhossen" height="150" width="370" /></p>
-<br /><br /><br /><br/><br/><br/>
+<br /><br /><br /><br/><br/><br/><br/><br/>
 
 
 <div style="display: flex;">
