@@ -22,10 +22,22 @@
 
 <h3 style="text-align: left;">Problem Solving Profile:</h3>
 
-<a href="https://codeforces.com/profile/emran_" target="_blank">![Codeforces](https://img.shields.io/badge/codeforces-007acc?style=for-the-badge&labelColor=black&logo=codeforces&logoColor=007acc)</a>
-<a href="https://www.codechef.com/users/emranhossen" target="_blank">![codechef](https://img.shields.io/badge/-codechef-61DBFB?style=for-the-badge&labelColor=black&logo=codechef&logoColor=61DBFB)</a>
-<a href="https://leetcode.com/emranhossen/" target="_blank">![leetcode](https://img.shields.io/badge/leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=white)</a>
-<a href="https://www.stopstalk.com/user/profile/emranhossen" target="_blank">![stopstalk](https://img.shields.io/badge/-stopstalk(all_profiles_here)-61DBFB?style=for-the-badge&labelColor=black&logo=stopstalk&logoColor=61DBFB)</a>
+
+<a href="https://codeforces.com/profile/emran_" target="_blank" style="margin-right: 10px;">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" alt="Codeforces" width="45" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/emranhossen/" target="_blank" style="margin-right: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="LeetCode" width="45" height="45"/>
+</a>
+
+<a href="https://www.codechef.com/users/emranhossen" target="_blank" style="margin-right: 10px;">
+    <img src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="CodeChef" width="45" height="45"/>
+</a>
+
+<a href="https://atcoder.jp/users/emranhossen" target="_blank" style="margin-right: 10px;">
+    <img src="https://asset.brandfetch.io/idZMTV6iO2/idgmdfTknk.png" alt="AtCoder" width="45" height="45"/>
+</a>
 
 
 
