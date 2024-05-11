@@ -9,13 +9,14 @@
 - 📫 How to reach me **emranhossen3075@gmail.com**
 </br></br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-emranhossen&show_icons=true&locale=en" alt="md-emranhossen" height="150" width="370" /></p>
-<br /><br /><br /><br/><br/>
-<br/>
-<br/>
+<br /><br /><br /><br/><br/><br/>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emranhossen&show_icons=true&locale=en&layout=compact" alt="md-emranhossen" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-emranhossen&" alt="md-emranhossen" /></p>
+<div style="display: flex;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emranhossen&show_icons=true&locale=en&layout=compact" alt="md-emranhossen" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=md-emranhossen&" alt="md-emranhossen" />
+</div>
+
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
 <h3 style="text-align: left;">Problem Solving Profile:</h3>
