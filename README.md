@@ -29,7 +29,7 @@
 
 
 
-<h3 style="text-align: left;">Languages and Tools:</h3>
+<h3 style="text-align: left;">Skills:</h3>
 <div style="text-align: left;">
     <a href="https://www.csharp.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
