@@ -9,8 +9,8 @@
 - 📫 How to reach me **emranhossen3075@gmail.com**
 
 <br/>
-<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Md-EmranHossen&show_icons=true&theme=radical" />
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=md-emranhossen&show_icons=true&locale=en" alt="md-emranhossen" /></p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-emranhossen&show_icons=true&locale=en&layout=compact" alt="md-emranhossen" /></p>
