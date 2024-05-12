@@ -93,7 +93,7 @@
     <a href="https://linkedin.com/in/emranhossen" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emranhossen" height="30" width="40" />
     </a>&nbsp;
-    <a href="Discordapp.com/users/986276406466060349" target="_blank">
+    <a href="[Discordapp.com/users/986276406466060349](https://discord.com/users/986276406466060349 )" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="emran_hossen" height="60" width="40" />
     </a>&nbsp;
     <a href="https://fb.com/emmranhossen" target="_blank">
