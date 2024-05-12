@@ -20,7 +20,7 @@
 
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<h3 style="text-align: left;">Problem Solving Profile:</h3>
+<h3 style="text-align: left;">Problem Solving Skills:</h3>
 
 <a href="https://codeforces.com/profile/emran_" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" alt="Codeforces" width="45" height="45" />
@@ -38,7 +38,7 @@
     <img src="https://asset.brandfetch.io/idZMTV6iO2/idgmdfTknk.png" alt="AtCoder" width="45" height="45" />
 </a>
 
-<h3 style="text-align: left;">Skills:</h3>
+<h3 style="text-align: left;">Professional Skills:</h3>
 <div style="text-align: left;">
     <a href="https://www.csharp.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
