@@ -19,7 +19,7 @@
 </div>
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><hr>
 <h3 style="text-align: left;">Problem Solving Skills:</h3>
 
 <a href="https://codeforces.com/profile/emran_" target="_blank" style="margin-right: 10px;">
@@ -36,8 +36,7 @@
 
 <a href="https://atcoder.jp/users/emranhossen" target="_blank" style="margin-right: 10px;">
     <img src="https://asset.brandfetch.io/idZMTV6iO2/idgmdfTknk.png" alt="AtCoder" width="45" height="45" />
-</a>
-
+</a><hr>
 <h3 style="text-align: left;">Professional Skills:</h3>
 <div style="text-align: left;">
     <a href="https://www.csharp.net" target="_blank" rel="noreferrer">
@@ -68,7 +67,7 @@
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
     </a>
 </div>
-
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/emranhossen" target="_blank">
