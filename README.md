@@ -25,18 +25,20 @@
 <a href="https://codeforces.com/profile/emran_" target="_blank" style="margin-right: 10px;">
     <img src="https://cdn.iconscout.com/icon/free/png-512/free-code-forces-3521352-2944796.png?f=webp&w=256" alt="Codeforces" width="45" height="45" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/emranhossen/" target="_blank" style="margin-right: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png?20191202080835" alt="LeetCode" width="45" height="45" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/emranhossen" target="_blank" style="margin-right: 10px;">
     <img src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="CodeChef" width="45" height="45" />
 </a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://atcoder.jp/users/emranhossen" target="_blank" style="margin-right: 10px;">
     <img src="https://asset.brandfetch.io/idZMTV6iO2/idgmdfTknk.png" alt="AtCoder" width="45" height="45" />
-</a><hr>
+</a>
+<hr>
+
 <h3 style="text-align: left;">Professional Skills:</h3>
 <div style="text-align: left;">
     <a href="https://www.csharp.net" target="_blank" rel="noreferrer">
