@@ -9,8 +9,8 @@
       <!-- Personal Information -->
       <ul>
         <li>🌱 Currently learning <strong>Professional Programming with C#</strong></li>
-        <li>👨‍💻 Check out my projects at <a href="https://md-emranhossen.github.io">Emran Hossen's Portfolio</a></li>
-        <li>📄 View my resume: <a href="[Your Resume Link]" target="_blank">Download Resume</a></li>
+        <li>👨‍💻 Check out my projects at <a href="https://github.com/Md-EmranHossen?tab=repositories">Projects</a></li>
+        <li>📄 View my resume: <a href="https://drive.google.com/file/d/17YTmf-3Ozlh2IMN6bshn7ETVpFOq4mtx/view?usp=sharing" target="_blank">Download Resume</a></li>
         <li>📫 Contact me at: <strong>emranhossen3075@gmail.com</strong></li>
       </ul>
       <h4>Connect with me:</h4>
