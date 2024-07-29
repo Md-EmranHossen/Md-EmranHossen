@@ -1,7 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=FFFFFF&width=600&height=45&lines=Hey+there!+This+is+Emran;Problem+Solver;.Net+Developer;Tech+Enthusiast;Personality+INTJ+-+T" alt="Typing SVG" />
 </h1>
-
 <table>
   <tr>
     <td>
@@ -20,7 +19,7 @@
     </td>
     <td>
       <!-- Image in the first row -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-EmranHossen&show_icons=true&locale=en&layout=compact" alt="Md-EmranHossen" height="200" width="300" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-EmranHossen&show_icons=true&locale=en&layout=compact" alt="Md-EmranHossen" height="180" width="300" />
     </td>
   </tr>
    <tr>
