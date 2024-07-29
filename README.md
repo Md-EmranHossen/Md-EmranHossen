@@ -2,9 +2,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=680&size=25&duration=3500&pause=500&color=FFFFFF&width=600&height=45&lines=Hey+there!+This+is+Emran;Problem+Solver;.Net+Developer;Tech+Enthusiast;Personality+INTJ+-+T" alt="Typing SVG" />
 </h1>
 <table>
+<!-- First Row -->
   <tr>
     <td>
-      <!-- Text content here -->
+<!-- Personal Information -->
       <ul>
         <li>
           🌱 I’m currently learning
@@ -19,6 +20,7 @@
         <li>📫 How to reach me <strong>emranhossen3075@gmail.com</strong></li>
       </ul>
       <h4 align="left">
+<!-- Social Media Links -->
         Connect with me:
       </h4>
       <a href="https://linkedin.com/in/emranhossen"
@@ -38,7 +40,7 @@
       /></a>
     </td>
     <td>
-      <!-- Image in the first row -->
+<!--GitHub Stats-->
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs?username=Md-EmranHossen&show_icons=true&locale=en&layout=compact"
         alt="Md-EmranHossen"
@@ -47,9 +49,12 @@
       />
     </td>
   </tr>
+<!--Second Row-->
   <tr>
     <td colspan="2">
+<!--Skills and Technologies--->
       <div style="text-align: left">
+<!--Problem-Solving Platform-->
         <h4>Problem Solving:</h4>
         <a href="https://codeforces.com/profile/emran_"
           ><img
@@ -71,6 +76,7 @@
             src="https://img.shields.io/badge/social--badge?style=social&label=AtCoder&logo=atcoder"
             alt="AtCoder URL"
         /></a>
+<!-- Programming Languages -->
         <h4>Languages:</h4>
         <a href="#"
           ><img
@@ -82,6 +88,7 @@
             src="https://img.shields.io/badge/social--badge?style=social&label=C%2B%2B&logo=c%2B%2B&logoColor=00599C"
             alt="C++"
         /></a>
+<!-- Front-end Technologies -->
         <h4>Front-end:</h4>
         <a href="#"
           ><img
@@ -98,6 +105,7 @@
             src="https://img.shields.io/badge/social--badge?style=social&label=JavaScript&logo=javascript&logoColor=F7DF1E"
             alt="JavaScript"
         /></a>
+<!-- Back-end Technologies -->
         <h4>Back-end:</h4>
         <a href="#"
           ><img
@@ -123,6 +131,7 @@
     </td>
   </tr>
   <tr>
+<!-- Third Row -->
     <td colspan="2">
       <!-- Additional images in the second row -->
       <p>
