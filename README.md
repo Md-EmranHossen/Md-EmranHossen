@@ -24,21 +24,22 @@
   </tr>
    <tr>
     <td colspan="2">
-      <h3 style="text-align: left;">Problem Solving Skills:</h3>
-      <p>
+      <div style="text-align: left;">
+        <h4 style="text-align: left;">Problem Solving Skills:<h4>
         <a href="https://codeforces.com/profile/emran_"><img src="https://img.shields.io/badge/social--badge?style=social&label=Codeforces&logo=codeforces" alt="Codeforces URL" /></a>
         <a href="https://leetcode.com/emranhossen"><img src="https://img.shields.io/badge/social--badge?style=social&label=LeetCode&logo=leetcode" alt="LeetCode URL" /></a>
         <a href="https://www.codechef.com/users/emranhossen"><img src="https://img.shields.io/badge/social--badge?style=social&label=CodeChef&logo=codechef" alt="CodeChef URL" /></a>
         <a href="https://atcoder.jp/users/emranhossen"><img src="https://img.shields.io/badge/social--badge?style=social&label=AtCoder&logo=atcoder" alt="AtCoder URL" /></a>
-      </p>
-      <h3 style="text-align: left;">Professional Skills:</h3>
-      <div style="text-align: left;">
+        <h4>Languages:</h4>
+        <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=C%23&logo=csharp&logoColor=239120" alt="C#" /></a>
         <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=C%2B%2B&logo=c%2B%2B&logoColor=00599C" alt="C++" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=C%23&logo=c-sharp&logoColor=239120" alt="C#" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=.NET&logo=dotnet&logoColor=512BD4" alt=".NET" /></a>
-        <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=HTML&logo=html&logoColor=E34F26" alt="HTML" /></a>
+        <h4>Front-end:</h4>
+        <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=HTML5&logo=html5&logoColor=E34F26" alt="HTML5" /></a>
         <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=CSS&logo=css3&logoColor=1572B6" alt="CSS" /></a>
         <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=JavaScript&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /></a>
+        <h4>Back-end:</h4>
+        <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=ASP.NET&logo=aspdotnet&logoColor=009CDE" alt="ASP.NET" /></a>
+       <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=Microsoft%20SQL%20Server&logo=microsoftsqlserver&logoColor=CC2927" alt="Microsoft SQL Server" /></a>
         <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=SQL&logo=postgresql&logoColor=4169E1" alt="SQL" /></a>
         <a href="#"><img src="https://img.shields.io/badge/social--badge?style=social&label=Git&logo=git&logoColor=F05032" alt="Git" /></a>
       </div>
