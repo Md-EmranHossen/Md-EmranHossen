@@ -42,7 +42,7 @@
       <!-- Skills and Technologies -->
       <div style="text-align: left">
         <!-- Problem Solving -->
-        <h4>Problem Solving:</h4>
+        <strong><p>Problem Solving:</p></strong>
         <a href="https://codeforces.com/profile/emran_"
           ><img
             src="https://img.shields.io/badge/social--badge?style=social&label=Codeforces&logo=codeforces"
