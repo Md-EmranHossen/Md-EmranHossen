@@ -106,8 +106,8 @@
           /></a>
         <a href="#"
           ><img
-            src="https://img.shields.io/badge/social--badge?style=social&label=Microsoft%20SQL%20Server&logo=microsoftsqlserver&logoColor=CC2927"
-            alt="Microsoft SQL Server"
+        src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927"
+        alt="Microsoft SQL Server Badge"
         /></a>
         <!-- Development Environments and Tools -->
         <h4>Development Environments and Tools:</h4>
@@ -123,7 +123,7 @@
         /></a>
         <a href="#"
           ><img
-            src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&color=white"
+            src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=#007ACC&color=white"
             alt="Visual Studio Code"
         /></a>
         <a href="#"
