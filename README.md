@@ -41,7 +41,7 @@
     <td colspan="2">
       <!-- Skills and Technologies -->
       <div style="text-align: left">
-        <!-- Problem Solving -->
+        <!--  Problem Solving  -->
         <strong><p>Problem Solving:</p></strong>
         <a href="https://codeforces.com/profile/emran_"
           ><img
