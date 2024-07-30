@@ -100,10 +100,10 @@
         <!-- Back-end -->
         <h4>Back-end:</h4>
         <a href="#"
-          ><img
-            src="https://img.shields.io/badge/social--badge?style=social&label=ASP.NET&logo=aspdotnet&logoColor=009CDE"
-            alt="ASP.NET"
-        /></a>
+            ><img
+        src="https://img.shields.io/badge/social--badge?style=social&label=ASP.NET&logo=dotnet&logoColor=009CDE"
+        alt="ASP.NET"
+          /></a>
         <a href="#"
           ><img
             src="https://img.shields.io/badge/social--badge?style=social&label=Microsoft%20SQL%20Server&logo=microsoftsqlserver&logoColor=CC2927"
