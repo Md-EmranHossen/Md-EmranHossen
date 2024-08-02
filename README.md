@@ -124,7 +124,7 @@
         /></a>
         <a href="#"
           ><img
-            src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=#007ACC&color=white"
+            src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&labelColor=000000"
             alt="Visual Studio Code"
         /></a>
         <a href="#"
