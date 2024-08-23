@@ -17,17 +17,17 @@
       <h4>Connect with me:</h4>
       <a href="https://linkedin.com/in/emranhossen"
         ><img
-          src="https://img.shields.io/badge/social--badge?style=social&label=LinkedIn&logo=linkedin"
+          <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn Badge"
           alt="LinkedIn URL"
       /></a>
       <a href="https://discord.com/users/986276406466060349"
         ><img
-          src="https://img.shields.io/badge/social--badge?style=social&label=Discord&logo=discord"
+         <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord Badge"
           alt="Discord URL"
       /></a>
       <a href="https://facebook.com/emmranhossen"
         ><img
-          src="https://img.shields.io/badge/social--badge?style=social&label=Facebook&logo=facebook"
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white&labelColor=1877F2" alt="Facebook Badge"
           alt="Facebook URL"
       /></a>
     </td>
