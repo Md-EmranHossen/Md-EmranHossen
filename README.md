@@ -151,7 +151,7 @@
     <td colspan="2">
       <!-- GitHub Stats and Profile Views -->
       <p>
-       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Md-EmranHossen&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=swift" />
+       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Md-EmranHossen&show_icons=true&hide_border=true&include_all_commits=true&theme=swift" />
         <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Md-EmranHossen&theme=swift&hide_border=true" />
       </p>
       <p align="left"><img src="https://komarev.com/ghpvc/?username=Md-EmranHossen&label=Profile%20views&color=af0707&style=flat" alt="Md-EmranHossen" />
