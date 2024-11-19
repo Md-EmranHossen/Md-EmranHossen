@@ -8,7 +8,7 @@
     <td valign="top">
       <!-- Personal Information -->
      <ul>
-        <li>🌱 Currently learning <strong>Professional Programming with C#</strong></li>
+        <li>🌱 Currently learning <strong>Data Structure & Algorithm</strong></li>
         <li>📝 Check out my blogs on <a href="https://medium.com/@emranhossen3075" target="_blank">Medium</a></li>
         <li>👨‍💻 Check out my projects at <a href="https://github.com/Md-EmranHossen?tab=repositories">Projects</a></li>
         <li>📄 View my resume: <a href="https://drive.google.com/file/d/1LqIoOAdGfaF95FdsfBNVkIFMEv5oCEgv/view?usp=sharing">Download Resume</a></li>
