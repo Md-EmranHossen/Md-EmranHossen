@@ -97,7 +97,11 @@
           ><img
             src="https://img.shields.io/badge/social--badge?style=social&label=JavaScript&logo=javascript&logoColor=F7DF1E"
             alt="JavaScript"
-        /></a>
+          /></a>
+          <img
+            src="https://img.shields.io/badge/social--badge?style=social&label=Bootstrap&logo=bootstrap&logoColor=8511FA"
+            alt="Bootstrap"
+            />
         <!-- Back-end -->
         <h4>Back-end:</h4>
         <a href="#"
