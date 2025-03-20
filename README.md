@@ -11,7 +11,7 @@
         <li>🌱 Currently learning <strong>Data Structure & Algorithm</strong></li>
         <li>📝 Check out my blogs on <a href="https://medium.com/@emranhossen3075" target="_blank">Medium</a></li>
         <li>👨‍💻 Check out my projects at <a href="https://github.com/Md-EmranHossen?tab=repositories">Projects</a></li>
-        <li>📄 View my resume: <a href="https://drive.google.com/file/d/1LqIoOAdGfaF95FdsfBNVkIFMEv5oCEgv/view?usp=sharing">Download Resume</a></li>
+        <li>📄 View my resume: <a href="https://drive.google.com/file/d/1j4Em8fa-C9uQNHmPM_ZFBX9BEUCqmYJb/view?usp=sharing">Download Resume</a></li>
         <li>📫 Contact me at: <strong>emranhossen3075@gmail.com</strong></li>
      </ul>
       <h4>Connect with me:</h4>
