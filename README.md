@@ -44,15 +44,15 @@
       <div style="text-align: left">
         <!--  Problem Solving  -->
         <strong><p>Problem Solving:</p></strong>
-        <a href="https://codeforces.com/profile/emran_"
-          ><img
-            src="https://img.shields.io/badge/social--badge?style=social&label=Codeforces&logo=codeforces&logoColor=%23FF0000" alt="[Codeforces URL](https://codeforces.com/profile/emran_)"
-            alt="Codeforces URL"
-        /></a>
         <a href="https://leetcode.com/emranhossen"
           ><img
             src="https://img.shields.io/badge/social--badge?style=social&label=LeetCode&logo=leetcode"
             alt="LeetCode URL"
+        /></a>
+        <a href="https://codeforces.com/profile/emran_"
+          ><img
+            src="https://img.shields.io/badge/social--badge?style=social&label=Codeforces&logo=codeforces&logoColor=%23FF0000" alt="[Codeforces URL](https://codeforces.com/profile/emran_)"
+            alt="Codeforces URL"
         /></a>
         <a href="https://www.codechef.com/users/emranhossen"
           ><img
